@@ -54,6 +54,7 @@ a {
     background-color: #000000;
     position: fixed;
     width: 100%;
+    z-index: 1;
 }
 
 .header__content2 {
